@@ -17,4 +17,4 @@
 
 Awards：  
 1. Honorable Mention in the department  
-    <img src= "!https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules/assets/91075744/635edf5c-b6d9-4bb2-a343-304200dc5204" width="300px">
+    <img src= "https://github.com/peter890331/Transparent-Substrate-Antennas-Integrating-to-Self-Biased-Transceiver-Modules/assets/91075744/635edf5c-b6d9-4bb2-a343-304200dc5204" width="300px">
